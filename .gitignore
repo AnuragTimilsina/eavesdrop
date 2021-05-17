@@ -1,6 +1,6 @@
-.txt
-.wav
-.png
+*.txt
+*.wav
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
