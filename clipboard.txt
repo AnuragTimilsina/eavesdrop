@@ -1,9 +1,0 @@
-Clipboard Data: 
-audio_informationClipboard Data: 
-audio_informationClipboard Data: 
-This is another test in python asdfsadfsdfdsfdsfdsfdsf Keylogger asdfkjdsklfjdsklfjdksljflkdsjflkdsjflkdjsfljkClipboard Data: 
-This is another test in python asdfsadfsdfdsfdsfdsfdsf Keylogger asdfkjdsklfjdsklfjdksljflkdsjflkdsjflkdjsfljkClipboard Data: 
-        send_email(screenshot_information, file_path +
-                   extend + screenshot_information, toaddr)Clipboard Data: 
-        send_email(screenshot_information, file_path +
-                   extend + screenshot_information, toaddr)
